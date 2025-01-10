@@ -143,7 +143,7 @@ TO DO: Send URL hash # parameters to our [Run Models CoLab](/RealityStream) usin
 
 - [RealityStream](/RealityStream/) - Machine Learning Classification Models - Xucen
 - [Process Industry NAICS by Zip Code](/community-zipcodes/mail) - DONE Yunbo
-- [ML for Community Forecasting Timelines](../data-pipeline/timelines/) - Zip code pipeline - TO DO - Amey
+- [ML for Community Forecasting Timelines](../data-pipeline/timelines/) - Zip code pipeline - TO DO - Amey - Poshan
 - [Open Data Panels - YAML Display](/OpenFootprint) - Microsoft Plug and Play - TO DO
 
 - [Top Commodities by State (hide sort columns)](/data-pipeline/research/economy) - Dinesh
@@ -175,7 +175,7 @@ TO DO: [Python to pull Harmonized Code (HS) lookups into Supabase](/OpenFootprin
 
 TO DO: [Sankey Industry eChart](/OpenFootprint/charts/echarts/sankey-nodeAlign-left.html) - eCharts uses a common echarts.min.js file which we'll load in [Feed Viewer](/feed/view)
 
-TO DO: [Python - Finalize our All the Places data by State and Zip](/places) - Poshan
+TO DO: [Python - Finalize our All the Places data by State and Zip](/places) - 
 
 #### Exiobase and Flask
 
